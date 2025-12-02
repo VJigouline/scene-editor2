@@ -25,5 +25,7 @@ After rework the code will be moved (probably) to the SceneEditor repository unl
 
 ## List of actions
 
-1. 
-
+1. Attempted to create Azure Static Web Application (SWA). Failed with message  
+>Node.js version v18.20.8 detected.  
+>The Angular CLI requires a minimum Node.js version of v20.19 or v22.12.
+Sounds like Azure SWA doesn't support latest Node.js.
